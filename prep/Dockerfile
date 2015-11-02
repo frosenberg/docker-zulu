@@ -1,4 +1,4 @@
-FROM gliderlabs/alpine:3.2
+FROM janeczku/alpine-kubernetes:3.2
 
 MAINTAINER josh@grahamis.com
 
